@@ -12,4 +12,5 @@
     <string name="end_text">End</string>
     <string name="search_button_text">Search</string>
     <string name="clear_button_text">Clear</string>
+    <string name="data">Data</string>
 </resources>
