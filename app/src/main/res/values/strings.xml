@@ -13,4 +13,6 @@
     <string name="search_button_text">Search</string>
     <string name="clear_button_text">Clear</string>
     <string name="data">Data</string>
+    <string name="enter_search_term">Enter search term...</string>
+    <string name="search">Search</string>
 </resources>
